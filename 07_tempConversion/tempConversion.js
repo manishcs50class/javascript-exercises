@@ -9,11 +9,11 @@ const ctof = function (userInputCtoF) {
   // userInputCtoF = prompt('Enter a temperature');
   resultCtoF = (userInputCtoF * 9 / 5) + 32;
   return Number(resultCtoF.toFixed(1));
-};
+}
 
 ctof(0)
 // Do not edit below this line
 module.exports = {
-  ftoc,
-  ctof
+  convertToCelsius,
+  convertToFahrenheit
 };

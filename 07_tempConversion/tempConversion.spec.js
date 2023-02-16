@@ -1,8 +1,8 @@
-const { ftoc, ctof } = require('./tempConversion')
+const { convertToCelsius, convertToFahrenheit } = require('./tempConversion')
 
-describe('ftoc', () => {
+describe('convertToCelsius', () => {
   test('works', () => {
-    expect(ftoc(32)).toEqual(0);
+    expect(convertToCelsius(32)).toEqual(0);
   });
   test('rounds to 1 decimal', () => {
     expect(ftoc(100)).toEqual(37.8);
