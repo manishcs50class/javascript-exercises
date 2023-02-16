@@ -1,0 +1,17 @@
+create a function sum.
+Get a set of numbers.
+Add all the numbers in the set.
+Use sum() to add numbers.
+
+create a function subtract.
+get two numbers.
+subtract the highest number from the lowest one.
+say a > b then subtract 'b' from 'a'.
+
+create a function multiply.
+get a set of numbers say (a, b, c).
+multiply a * b * c.
+
+create a power function.
+get two numbers. One of them is a base number and the other is raised to the power of.
+say (a,b) then raise a to the power b like a^b.

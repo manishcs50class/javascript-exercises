@@ -1,0 +1,5 @@
+if the REMAINDER in given year divided by 4 is 0 it is leap year.
+if the REMAINDER in given year divided by 100 is 0 it is NOT a leap year.
+    However if the REMAINDER in year divided by 400 is 0 it is a leap year.
+
+    

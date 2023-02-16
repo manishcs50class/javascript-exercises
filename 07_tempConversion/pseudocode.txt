@@ -1,0 +1,16 @@
+Two functions:
+    ftoc(32)
+    ctof(0)
+Round the result to one decimal place.
+
+function ftoc(32)
+    -Prompt for a temperature in fahrenheit.
+    -use formula to convert to celsius
+    -return celsius
+    - use .toFixed(1) to round to 1 decimal
+
+function ctof(0)
+    -Prompt for a temperature in celsius.
+    -use formula to convert to fahrenheit
+    -return fahrenheit.
+    - use .toFixed(1) to round to 1 decimal

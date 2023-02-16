@@ -1,0 +1,13 @@
+Take an array A that takes four numbers. 
+    array A = [1, 2, 3, 4]
+
+Take another array.
+    array B = (3)
+
+Concactenet the two array into array C 
+    array C = ([1,2,3,4],3)
+
+Remove the contents of array B such that any common content between arrays A and B is removed. Resulting array D.
+    array D = ([1,2,4])
+
+if A[0,n] is equal to B[0,n] then remove the equal characters.
