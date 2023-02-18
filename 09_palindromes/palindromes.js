@@ -3,7 +3,6 @@ const palindromes = function (word) {
     console.log(newWord);
 
     let j = newWord.length;
-    // let isPalindrome = false;
     for (i = 0; i < j / 2; i++) {
         if (newWord[i] !== newWord[j - 1 - i]) {
             return false;
